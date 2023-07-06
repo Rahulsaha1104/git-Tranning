@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my name Suswar  friend
+=======
+Suswar Sawant
+>>>>>>> d3f544f087c276cb3f245dd08396070a9bb61f50
